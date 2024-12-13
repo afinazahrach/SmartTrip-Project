@@ -1,7 +1,12 @@
 # Bangkit Product Track Capstone Project 2024 Batch 2
 
 ## About
+![Logo SmartTrip](assets/images/logo.png)
+
 SmartTrip is a recommendation system application designed to deliver the best travel destination in Java. This application aims to help travelers to discover new experienc and support the equitable development of tourism in Indonesia.
+
+## Model Performance
+![Accuracy](assets/images/accuracy.png)
 
 ## The Team
 | Member                                  | Student ID        | Path            | 
